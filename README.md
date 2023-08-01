@@ -1,1 +1,3 @@
-# SPAAM_courseJust an example repo
+# SPAAM_course
+Just an example repo
+Hello!
